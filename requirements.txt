@@ -1,0 +1,6 @@
+os
+config
+json
+requests
+pandas
+tkinter
