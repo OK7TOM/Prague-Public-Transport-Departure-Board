@@ -26,7 +26,7 @@ This project uses the Golemio API to fetch real-time departure data. For more in
 6. **Set up autostart** (for Raspberry Pi):
     ```sh
     sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
-    @lxterminal -e python3 /home/pi/myapp.py
+    @lxterminal -e python3 /home/pi/main.py
     ```
 
 ## Usage
